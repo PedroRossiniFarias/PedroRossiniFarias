@@ -9,3 +9,7 @@ Meu nome é Pedro Rossini
   ### Voce entrar em contato comigo 📫
 
   pedro.farias@escola.pr.gov.br
+  
+  @pedrelas7
+
+!.[].(https://media1.tenor.com/m/UwezTEguAXoAAAAd/skeleton-thinking.gif)
