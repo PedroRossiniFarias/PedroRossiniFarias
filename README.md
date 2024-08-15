@@ -2,7 +2,7 @@
 
 Meu nome é Pedro Rossini
 
-- Estou estudando no Alura;
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Pedro Rossini
   
   @pedrelas7
 
-!.[_].(https://media1.tenor.com/m/UwezTEguAXoAAAAd/skeleton-thinking.gif)
+![.](https://media1.tenor.com/m/UwezTEguAXoAAAAd/skeleton-thinking.gif)
