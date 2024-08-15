@@ -12,4 +12,4 @@ Meu nome é Pedro Rossini
   
   @pedrelas7
 
-!.[].(https://media1.tenor.com/m/UwezTEguAXoAAAAd/skeleton-thinking.gif)
+!.[_].(https://media1.tenor.com/m/UwezTEguAXoAAAAd/skeleton-thinking.gif)
